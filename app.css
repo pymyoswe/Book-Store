@@ -1,0 +1,38 @@
+.navbar{
+    background: darkblue;
+    margin-bottom: 70px;
+}
+#navContainer a{
+    color: white;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+    background: darkblue;
+    color: white;
+}
+#dashboard{
+    margin-top: 70px;
+}
+#category{
+    margin-top: 70px;
+}
+.panel-heading a{
+    color: white;
+    font-size: 12px;
+}
+#book{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    background: gold;
+    color: blue;
+}
+#book a{
+    color: blue;
+
+}
+#bookThumb{
+    margin-bottom: 40px;
+}
